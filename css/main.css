@@ -1,0 +1,155 @@
+/*******************
+General
+********************/
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #ffa64d;
+}
+
+#wrapper {
+  max-width: 940px;
+  margin: 0 auto;
+  padding: 0 5%;
+}
+
+a {
+  text-decoration: none; 
+}
+
+img {
+  max-width: 100%;
+  border-radius: 100px;
+}
+
+h3 {
+  margin: 0 0 1em 0;
+  
+}
+
+.ptag {
+  font-size: 15px;
+  color: #000;
+}
+
+.conditions {
+  font-size: 15px;
+  color: #000;
+}
+
+
+/*******************
+Heading
+********************/
+
+header {
+  float: right;
+  margin: 0 0 30px 0;
+  padding: 5px 0 0 0;
+  width: 100%;
+}
+
+
+ #logo {
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Changa One', sans-serif;
+  margin: 15px 0;
+  font-size: 1.75em;
+  font-weight: normal;
+  line-height: 0.8em;
+  text-align: center;
+}
+
+h2 {
+  font-size: 0.75em;
+  margin: -5px 0 0;
+  font-weight: normal;
+  text-align: center;
+}
+
+
+/*******************
+Footer
+********************/
+
+footer {
+  font-size: 0.75em;
+  text-align: center;
+  color: #ad3900;
+  background: #ff8121;
+  border-color: #ff6e00;
+  float: right;
+  margin: 0 0 30px 0;
+  padding: 5px 0 0 0;
+  width: 100%
+}
+
+
+/*******************
+Dog Info
+********************/
+
+.info {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 0.9em;
+
+}
+
+.info a {
+  display: block;
+  min-height: 20px;
+  background-repeat: no-repeat;
+  background-size: 20px 20px;
+  padding: 0 0 0 30px;
+  margin: 0 0 10px;
+
+}
+
+
+
+/*******************
+Color
+********************/
+
+/* site body */
+body {
+  background-color: #ffb366;
+  color: #ffb366;
+}
+
+/* header */
+header {
+  background: #ff8121;
+  border-color: #ff6e00;
+}
+
+/* mobile nav background */
+nav {
+  background: #ff6e00;
+}
+
+/* logo text */
+h1, h2 {
+  color: #ad3900;
+}
+
+/* links */
+a {
+  color: #6ab47b; 
+}
+
+h3 {
+  color: #000;
+}
+
+
+
+
+
+
